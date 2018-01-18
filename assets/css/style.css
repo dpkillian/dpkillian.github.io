@@ -1,0 +1,16 @@
+
+.image { 
+   position: relative; 
+   padding: 10px;
+}
+
+h5 { 
+   position: absolute; 
+   background: #4aaaa5;
+   color: white;
+   text-align: center;
+   padding: 10px;
+   top: 100px; 
+   left: 10px; 
+   width: 200px; 
+}
